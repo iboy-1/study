@@ -1,0 +1,39 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: skyblue;
+}
+.box1{width:100px;height:100px;background-image:url(../../static/images/52dfbff610718a90d476.jpg);background-size:cover}
+
+@font-face {
+  font-family: "iconfont"; /* Project id 3587356 */
+  src: url(../../static/fonts/ccb78d53f6.woff2) format('woff2'),
+       url(../../static/fonts/f332afb77a.woff) format('woff'),
+       url(../../static/fonts/1bd6604b4b.ttf) format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-aixin:before {
+  content: "\e8ab";
+}
+
+.icon-bianji:before {
+  content: "\e8ac";
+}
+
+.icon-Dyanjing:before {
+  content: "\e8ad";
+}
+
+.icon-caidan:before {
+  content: "\e8ae";
+}
+
+
