@@ -1,0 +1,12 @@
+{
+  "name": "my_package_test",
+  "version": "1.0.0",
+  "description": "练习npm包发布，内含格式化时间功能与转换html文件功能",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["dataFormt", "my_package"],
+  "author": "",
+  "license": "ISC"
+}
